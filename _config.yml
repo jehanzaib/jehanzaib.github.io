@@ -1,0 +1,21 @@
+# Site settings
+title: "Jehanzaib"
+description: "Posting bits about startups & OSS"
+baseurl: ""
+url: "http://jehanzaib.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+# Links
+links:
+  - title: "About"
+    url: /about
+  - title: "Twitter"
+    url: http://twitter.com/_jehanzaib_
+  - title: "Github"
+    url: http://github.com/jehanzaib
+  - title: "RSS"
+    url: /feed.xml

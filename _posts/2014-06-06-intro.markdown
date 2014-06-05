@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Intro!"
+date:   2014-06-06 04:12:30
+---
+
+I am co-founder & CTO at <a href="http://iknowl.co">iKnowl</a>. I am passionate about developing solutions for existing problems through technology. I spend most of my day programming software and at times, reading software.
+
+At iKnowl I am working on a wearable tech for elderlies and a scalable hosting solution for an average human.
+
+I am also co-founder of a group called hacker9 which writes software for social good.
+
