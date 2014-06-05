@@ -11,7 +11,17 @@ title: Home
       <h1>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h1>
-      {{ post.content }}
+      {% if post.content contains '<!--more-->' %}
+    
+    	{{ post.content | split:'<!--more-->' | first }}
+    
+    	<p><a href="{{ post.url }}">Continue reading</a></p>
+
+     {% else %}
+
+    	{{ post.content }}
+    
+     {% endif %}
       <span class="meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
     {% endfor %}

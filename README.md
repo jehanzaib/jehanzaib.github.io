@@ -1,6 +1,7 @@
-typewriter
+jehanzaib
 ==========
 
-A simple and beautiful theme for Jekyll.
+This blog is is based on a beautiful Jekyll theme [typewriter][typewriter] made by [alixedi][alixedi].
 
-![Screenshot](https://raw.githubusercontent.com/alixedi/typewriter/master/images/screenshot.png)
+[typewriter]:https://github.com/alixedi/typewriter
+[alixedi]:https://twitter.com/alixedi
