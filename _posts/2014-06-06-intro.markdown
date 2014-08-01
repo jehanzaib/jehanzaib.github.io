@@ -4,5 +4,5 @@ title:  "Intro!"
 date:   2014-06-06 04:12:30
 ---
 
-I am co-founder & CTO at <a href="http://iknowl.co">iKnowl</a>. I spend most of my day programming and reading software.
+I am co-founder and lead developer at <a href="http://iknowl.co">iKnowl</a>. I spend most of my day programming and reading software.
 
